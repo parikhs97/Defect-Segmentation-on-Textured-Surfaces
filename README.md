@@ -6,6 +6,4 @@ In this project, you will be developing a model to detect defects by Industrial 
 The dataset we will be using is described here:
 https://hci.iwr.uni-heidelberg.de/node/3616
 
-You do not have to download it. We will provide a compressed version.
-
 There are many ways to solve this problem.We will attempt to solve this using deep learning and the approach we will follow is based on the paper on U-Net: Convolutional Networks for Biomedical Image Segmentation.
